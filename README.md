@@ -1,2 +1,2 @@
-# hashed-pass-login
-Simple Login System with Hashed Passwords
+# Simple Login System with Hashed Passwords
+
